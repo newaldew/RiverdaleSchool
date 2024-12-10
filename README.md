@@ -1,4 +1,4 @@
-# 🚀 Rivardale School Website
+# 💫  Rivardale School Website
 Welcome to the Rivardale School Website project! This platform is designed to provide a comprehensive and user-friendly experience for students, faculty, and administrators. Built with modern web technologies, Rivardale aims to streamline school operations while offering an intuitive interface for students to access key services.
 
 Features:
