@@ -1,4 +1,13 @@
-This project is a School Website.
+# 💫 Rivardale School Website
+Welcome to the Rivardale School Website project! This platform is designed to provide a comprehensive and user-friendly experience for students, faculty, and administrators. Built with modern web technologies, Rivardale aims to streamline school operations while offering an intuitive interface for students to access key services.
+
+Features:
+1. **Course Exploration**: Students can browse and explore available courses offered by the school.
+2. **Course Enrollment**: Seamlessly enroll in courses and manage their learning path with just a few clicks.
+3. **Contact Us**: A contact section that allows students to reach out with questions, concerns, or feedback.
+4. **Holiday Listings**: View a list of upcoming holidays and important dates within the academic calendar.
+5. **User Accounts**: Create and manage student accounts to keep track of course enrollments, progress, and notifications.
+
 
 # 💫 About Me:
 👋 Hi there! I'm a backend developer with over 2 years of experience building scalable and efficient microservices using Java and Spring Boot. I specialize in creating robust, high-performance applications that can easily handle complex business logic and high traffic.
